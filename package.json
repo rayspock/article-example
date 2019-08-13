@@ -2,13 +2,14 @@
   "name": "article-example",
   "version": "0.1.0",
   "private": true,
-  "author": "rayspock",
+  "author": "Ray (https://github.com/rayspock/)",
   "keywords": [
     "react",
     "redux",
     "saga",
     "typescript"
   ],
+  "homepage": "https://rayspock.github.io/article-example/",
   "dependencies": {
     "@types/jest": "^24.0.16",
     "@types/node": "^12.6.9",
